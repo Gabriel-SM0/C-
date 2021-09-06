@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1617593538 source:c:\users\usuario\desktop\onedrive\unibells\engenharia da computação\estrutura de dados em c\aula 9\calculo_retangulo\src\retangulo.cpp
+	"Retangulo.h"
+
+1617592802 c:\users\usuario\desktop\onedrive\unibells\engenharia da computação\estrutura de dados em c\aula 9\calculo_retangulo\include\retangulo.h
+
+1617593997 source:c:\users\usuario\desktop\onedrive\unibells\engenharia da computação\estrutura de dados em c\aula 9\calculo_retangulo\main.cpp
+	<iostream>
+	"Retangulo.h"
+
+1617670215 source:c:\users\usuario\desktop\onedrive\unibells\engenharia da computação\orientação a objeto\exercicio 4 retangulo\main.cpp
+	<iostream>
+	"Retangulo.h"
+
+1617668750 c:\users\usuario\desktop\onedrive\unibells\engenharia da computação\orientação a objeto\exercicio 4 retangulo\include\retangulo.h
+
+1617670404 source:c:\users\usuario\desktop\onedrive\unibells\engenharia da computação\orientação a objeto\exercicio 4 retangulo\src\retangulo.cpp
+	"Retangulo.h"
+
